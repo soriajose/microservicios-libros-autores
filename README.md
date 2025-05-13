@@ -9,6 +9,15 @@ Este proyecto implementa una biblioteca virtual utilizando arquitectura de micro
 
 ## 🔗 Comunicación Feign
 
-El microservicio de libros utiliza Feign para conectarse al microservicio de autores y obtener los autores de un libro mediante:
+El microservicio de libros utiliza Feign para conectarse al microservicio de autores y obtener los autores de un libro para luego registrarlos.
+
+
+## 🛠️ Tecnologías
+
+- Java 17
+- Spring Boot
+- Spring Cloud OpenFeign
+- Spring Data JPA
+- MySQL
 
 
